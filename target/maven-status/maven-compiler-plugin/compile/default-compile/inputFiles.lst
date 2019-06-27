@@ -1,6 +1,7 @@
-C:\Users\student\Downloads\cmder\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\util\DisableHostnameVerifier.java
-C:\Users\student\Downloads\cmder\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\DonationEncoder.java
-C:\Users\student\Downloads\cmder\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\DonationListProvider.java
-C:\Users\student\Downloads\cmder\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\model\DonationListMBR.java
-C:\Users\student\Downloads\cmder\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\model\Donation.java
-C:\Users\student\Downloads\cmder\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\MonitorWebSocket.java
+C:\Users\student\Documents\DEV\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\MonitorWebSocket.java
+C:\Users\student\Documents\DEV\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\DonationEncoder.java
+C:\Users\student\Documents\DEV\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\model\Donation.java
+C:\Users\student\Documents\DEV\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\DonationListProvider.java
+C:\Users\student\Documents\DEV\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\model\DonationListMBR.java
+C:\Users\student\Documents\DEV\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\ws\DonationDelegator.java
+C:\Users\student\Documents\DEV\my-aktion-monitor\src\main\java\de\dpunkt\myaktion\monitor\util\DisableHostnameVerifier.java
